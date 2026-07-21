@@ -22,12 +22,7 @@ A beginner-friendly Data Science lab for transforming sales data into a clear, e
 | `Data_Storytelling_Project_Lecture.docx` | Data-storytelling lecture notes. |
 | `Presentation_Skills_Advanced_DS.docx` | Advanced presentation guidance for Data Science students. |
 
-## Recommended repository details
 
-- **Name:** `data-storytelling-amazon-sales-lab`
-- **Description:** Practical Data Science lab for analyzing Amazon-style sales data and communicating evidence-based insights through effective visualizations.
-- **Topics:** `data-storytelling`, `data-visualization`, `pandas`, `seaborn`, `matplotlib`, `python`, `google-colab`, `education`
-- **Demo:** Use the Colab badge above.
 
 ## Author
 
